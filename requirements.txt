@@ -1,0 +1,7 @@
+dj-database-url==0.3.0
+dj-static==0.0.6
+Django==1.8.4
+gunicorn==19.3.0
+-e git+git@github.com:arriqaaq/myo-python@cc267d539c6c88f84c3be7e1813ad078646dd62d#egg=myo_python-master
+psycopg2==2.5.2
+static3==0.6.1
